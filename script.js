@@ -1267,7 +1267,7 @@ function update() {
             
             #box {
               /* max-width: 720px; */
-              padding: 1.5em;
+             /* padding: 1.5em; */
               margin: 0;
               /* width: 100%; */
               background-color: #312B2D;
